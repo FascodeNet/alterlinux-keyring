@@ -10,7 +10,7 @@ gpg --keyserver keyserver.ubuntu.com --recv-key F50544048389DA36
 
 #### 2. Clone this repository
 ```bash
-git clone https://github.com/SereneTeam/alterlinux-keyring
+git clone https://github.com/SereneTeam/alterlinux-pkgbuilds.git
 ```
 
 #### 3. Build
