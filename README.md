@@ -8,7 +8,7 @@ GnuPG Keyrings for AlterLinux.
 gpg --keyserver keyserver.ubuntu.com --recv-key F50544048389DA36
 ```
 
-#### 2. Clone this repository
+#### 2. Clone PKGBUILD repository
 ```bash
 git clone https://github.com/SereneTeam/alterlinux-pkgbuilds.git
 ```
