@@ -1,7 +1,7 @@
 # About
 GnuPG Keyrings for AlterLinux.
 
-## How to install
+## How to building a package
 
 #### 1. Import GPG key
 ```bash
